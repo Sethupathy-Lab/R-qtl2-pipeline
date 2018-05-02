@@ -13,7 +13,7 @@ http://kbroman.org/qtl2/pages/prep_do_data.html
 ## 1) Download the Founder genotypes and SNP maps
 With DO data, an important component of the R/qtl2 input files is the SNP genotypes for the eight founder lines. We also need the genetic and physical positions of the SNP markers.
 
-Dan Gatti (https://www.jax.org/research-and-faculty/faculty/research-scientists/daniel-gatti) has prepared such data for the MegaMUGA and GigaMUGA arrays and made them available at ftp://ftp.jax.org/MUGA. The files with names starting MM_ are for the MegaMUGA array; the files with names starting GM_ are for the GigaMUGA array.
+[link] (https://www.jax.org/research-and-faculty/faculty/research-scientists/daniel-gatti "Dan Gatti") has prepared such data for the MegaMUGA and GigaMUGA arrays and made them available at [link] (ftp://ftp.jax.org/MUGA "ftp.jax.org/MUGA"). The files with names starting MM_ are for the MegaMUGA array; the files with names starting GM_ are for the GigaMUGA array.
 
 We’ve also placed these files at figshare: https://doi.org/10.6084/m9.figshare.c.3879694.
 
