@@ -1,13 +1,11 @@
 # R/qtl2-pipeline for Diversity Outbred(DO) mice
-One of current protocols for QTL analysis of DO mice uses R/qtl2 written by Karl Broman. His bio and contact information can be found here. http://kbroman.org/pages/about.html
+One of current protocols for QTL analysis of DO mice uses R/qtl2 written by [Karl Broman](http://kbroman.org/pages/about.html)
 
-Documentation for R/qtl2 can be found here and reading this documention should be your starting point.
-http://kbroman.org/qtl2/docs.html
+Reading the documention for [R/qtl2](http://kbroman.org/qtl2/docs.html) should be your starting point.
 
 # Preparing DO mouse data
 DO mice are a bit of special case and there are several steps for preparing the DO mouse data for R/qtl2.
-A set of instructions for preparing the DO data can be found here.
-http://kbroman.org/qtl2/pages/prep_do_data.html
+It is imperative that you read and understand the [instructions for preparing the DO data](http://kbroman.org/qtl2/pages/prep_do_data.html)
 
 ## There are 4 basic steps to prepare the DO data
 ## 1) Download the Founder genotypes and SNP maps
