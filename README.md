@@ -19,9 +19,9 @@ We’ve also placed these files at figshare: https://doi.org/10.6084/m9.figshare
 
 MM_primary_files.zip (https://doi.org/10.6084/m9.figshare.5404717.v1), containing all of the files for the MegaMUGA array
 GM_primary_files.zip (https://doi.org/10.6084/m9.figshare.5404675.v1), containing all of the files for the GigaMUGA array
-The files at ftp.jax.org/MUGA and in these zip files are all in .Rdata format, for R. For the GigaMUGA data, the key files include GM_snps.Rdata, containing SNP locations, and GM_geno.Rdata, containing SNP genotypes for the Collaborative Cross (CC) founder strains (which are also the founders of the DO), as single-letter codes N/C/T/A/G/H.
+The files at ftp://ftp.jax.org/MUGA and in these zip files are all in .Rdata format, for R. For the GigaMUGA data, the key files include GM_snps.Rdata, containing SNP locations, and GM_geno.Rdata, containing SNP genotypes for the Collaborative Cross (CC) founder strains (which are also the founders of the DO), as single-letter codes N/C/T/A/G/H.
 
-To use these data with R/qtl2, we need to reformat the files and recode the SNP genotypes (for example, as A/H/B/-). We’ve placed an R script to do this at the figshare site, parse_muga.R (doi:10.6084/m9.figshare.5405260). This uses the R/qtl2convert package, in particular find_consensus_geno() to determine consensus genotypes for each founder strain at each SNP from the multiple individuals that were genotyped, find_unique_geno() to determine the SNP alleles, and encode_geno() to encode the SNP genotypes as A/H/B/-.
+To use these data with R/qtl2, we need to reformat the files and recode the SNP genotypes (for example, as A/H/B/-). We’ve placed an R script to do this at the figshare site, parse_muga.R (https://doi.org/10.6084/m9.figshare.5405260). This uses the R/qtl2convert package, in particular find_consensus_geno() to determine consensus genotypes for each founder strain at each SNP from the multiple individuals that were genotyped, find_unique_geno() to determine the SNP alleles, and encode_geno() to encode the SNP genotypes as A/H/B/-.
 
 The processed files are also at figshare:
 
