@@ -1,11 +1,11 @@
-## Preparing the DO mouse data example
+## Running the R/qtl2 Tutorial
 There is a complete tutorial on the CU servers in the Sethupathy Lab directory.  
 It is called Rqt2_tutorial and can be found here...  
 /home/pr46_0001/cornell_tutorials  
 All the files needed to run it are contained in the Rqtl2_tutorial folder.  
 To run the tutorial...  
-# make a reservation on a workstation  
-# login to your login node and then
+#### make a reservation on a workstation  
+#### login to your login node and then
 ```
 # ssh to the workstation and cd to the /workdir
 ssh your_user_name@workstation_name.tc.cornell.edu
