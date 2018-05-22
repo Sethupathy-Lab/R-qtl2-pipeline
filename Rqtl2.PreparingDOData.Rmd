@@ -1,11 +1,3 @@
----
-title: "Rqtl2 Preparing the DO mouse data"
-output: html_document
----
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## 2) Preparing DO mouse data
 DO mice are a bit of special case and there are several steps for preparing the DO mouse data for R/qtl2.  Because it is essential to have the data in the correct format, this page will cover DO data prep in detail.  Before attempting to run R/qtl2 it is imperative that you read and understand the [instructions for preparing the DO data](http://kbroman.org/qtl2/pages/prep_do_data.html), much of which is reproduced below.
 
