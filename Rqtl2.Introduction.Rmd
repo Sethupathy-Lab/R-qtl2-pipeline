@@ -25,7 +25,8 @@ The book alternates between QTL mapping theory and examples illustrating the use
 
 Karl W. Broman is Professor in the Department of Biostatistics and Medical Informatics at the University of Wisconsin-Madison, and is the chief developer of R/qtl. Saunak Sen is Associate Professor in Residence in the Department of Epidemiology and Biostatistics and the Center for Bioinformatics and Molecular Biostatistics at the University of California, San Francisco."
 
-
+Next Step
+[Installing R/qtl2 software](https://github.com/Sethupathy-Lab/R-qtl2-pipeline/blob/master/Rqtl2.InstallingRqtl2.Rmd) 
 
 
 
