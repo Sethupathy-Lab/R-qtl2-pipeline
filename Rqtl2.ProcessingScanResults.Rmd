@@ -1,12 +1,3 @@
----
-title: "Rqtl2 Processing Scan Results"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## 4) Processing Scan Results
 
 Processing the scan results is done in R.  Assuming you have installed qtl2 on your local computer, this part can be done on your local computer.  Much of the output from this part will be plots/graphs and data structures which you will want to examine.  This is not easily done on the linux based servers unless you are using a virtual desktop like VNC, which can be a bit cumbersome.  It is also likely that working interactively will be better, as results from one step will often inform/alter the subsequent steps. Therefore, the recommended approach is to do this locally and interactively in RStudio.  All further instruction will assume you are working locally/interactively in RStudio.
