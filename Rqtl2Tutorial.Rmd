@@ -1,12 +1,3 @@
----
-title: "Rqtl2 Tutorial"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Preparing the DO mouse data example
 There is a complete tutorial on the CU servers in the Sethupathy Lab directory.  
 It is called Rqt2_tutorial and can be found here...  
