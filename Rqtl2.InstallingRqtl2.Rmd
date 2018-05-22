@@ -1,11 +1,3 @@
----
-title: "Rqtl2 Installing the qtl2 package"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 ## 1) Acquiring/Setting up the software on the CU server
 
 ### WARNINGS:  
