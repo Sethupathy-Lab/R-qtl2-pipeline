@@ -15,7 +15,7 @@ cd /workdir
 # copy the tutorial folder to /workdir
 cp -R /home/pr46_0001/cornell_tutorials/Rqtl2_tutorial/ ./
 ```
-At this point you should use explore the contents of the tutorial folder.  There are several .R files that you will run to prepare the data.  Before you run them, use cat <filename> or nano <filename> to look at the content of the various .R files to see what each is doing.
+At this point you should explore the contents of the tutorial folder.  There are several .R files that you will run to prepare the data.  Before you run them, use cat <filename> or nano <filename> to look at the content of the various .R files to see what each is doing.
 To actually run the files you have two choices. The recommended approach for now is to run each one separately as described below.  Once you understand the process you can just use "sh PrepareDOData.sh" or "nohup sh PrepareDOData.sh &" to run them all.
 
 ```
