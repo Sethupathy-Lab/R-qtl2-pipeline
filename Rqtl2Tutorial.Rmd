@@ -229,5 +229,5 @@ Finally, transfer the example_results file into this folder also. It contains so
 
 Open the processScanResults.R file in RStudio and change the setwd() command to point to the folder that you just created.  Run the code in a line by line fashion to learn about the data structures you just downloaded and also how to process the qtl2 results to get meaningful results.
 
-There are several files that the above code puts out in the 
+There are several .png and .txt files that the above code puts out.  There are also examples of what these files look like in the example_results folder for comparison to your output. 
 
