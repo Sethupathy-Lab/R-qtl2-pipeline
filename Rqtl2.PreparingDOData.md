@@ -334,4 +334,4 @@ write_control_file(# change forqtl2 to something meaningful for you
                    crossinfo_covar="ngen")  
 ```
 
-Next Step [Running the Scans](https://github.com/Sethupathy-Lab/R-qtl2-pipeline/blob/master/Rqtl2.RunningScans.Rmd) 
+Next Step [Running the Scans](https://github.com/Sethupathy-Lab/R-qtl2-pipeline/blob/master/Rqtl2.RunningScans.md) 
