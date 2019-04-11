@@ -88,4 +88,4 @@ devtools::build("qtl2")
 # install the package in your local R repository
 install.packages("qtl2.tar.gz")
 ```
-Next Step [Preparing the DO data](https://github.com/Sethupathy-Lab/R-qtl2-pipeline/blob/master/Rqtl2.PreparingDOData.Rmd) 
+Next Step [Preparing the DO data](https://github.com/Sethupathy-Lab/R-qtl2-pipeline/blob/master/Rqtl2.PreparingDOData.md) 
