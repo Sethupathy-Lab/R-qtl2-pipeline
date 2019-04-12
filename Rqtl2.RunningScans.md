@@ -48,4 +48,4 @@ save(out, file="out.Rdata")
 perms <- scan1perm(apr, do$pheno, k, n_perm=1000,  cores=0)
 save(perms, file="perms.Rdata")
 ```
-Next Step [Processing Scan Results](https://github.com/Sethupathy-Lab/R-qtl2-pipeline/blob/master/Rqtl2.ProcessingScanResults.Rmd)
+Next Step [Processing Scan Results](https://github.com/Sethupathy-Lab/R-qtl2-pipeline/blob/master/Rqtl2.ProcessingScanResults.md)
