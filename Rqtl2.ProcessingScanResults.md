@@ -297,7 +297,7 @@ plot_pxg(g, do$pheno[,"ppi6F"])
 #dev.off()
 ```
 
-Next Step [R/qtl2 Tutorial](https://github.com/Sethupathy-Lab/R-qtl2-pipeline/blob/master/Rqtl2Tutorial.Rmd)
+Next Step [R/qtl2 Tutorial](https://github.com/Sethupathy-Lab/R-qtl2-pipeline/blob/master/Rqtl2Tutorial.md)
 
 
 
